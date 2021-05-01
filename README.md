@@ -1,24 +1,14 @@
-# vuejs-netlify
+# How to Deploy Your Vuejs App to Netlify
 
-## Project setup
-```
-yarn install
-```
+![SpaceX Launch - Bill Jellen Photograph](https://github.com/d3vkk/vuejs-netlify-article/blob/master/bill-jelen-woWf_VJ7dNs-unsplash.png)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+How to Deploy Your Vuejs App to Netlify
 
-### Compiles and minifies for production
+https://donaldk.hashnode.dev/how-to-deploy-your-vuejs-app-to-netlify
+
+Fork or clone this repo
 ```
-yarn build
+git clone https://github.com/d3vkk/vuejs-netlify-article.git
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+© 2020-present Donald K • Under MIT License
